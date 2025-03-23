@@ -1,7 +1,6 @@
 ## Hi I'm Malik Enzo Issiakhem 👋🧑‍💻🐍
 
-[
-](https://github-profile-trophy.vercel.app/?username=malouek&no-frame=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Malouek)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
